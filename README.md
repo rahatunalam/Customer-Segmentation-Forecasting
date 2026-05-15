@@ -101,25 +101,25 @@ Customer Segmentation & Sales Forecasting
 ## Python Visualizations
 
 ### Elbow Method — Optimal K Selection
-![Elbow Chart](charts/elbow_chart.png)
+![Elbow Chart](Charts/elbow_chart.png)
 
 ### K-Means Cluster Distribution
-![Cluster Distribution](charts/cluster_distribution.png)
+![Cluster Distribution](Charts/cluster_distribution.png)
 
 ### Daily Sales History (2009–2011)
-![Daily Sales](charts/daily_sales_history.png)
+![Daily Sales](Charts/daily_sales_history.png)
 
 ### 90-Day Sales Forecast
-![Sales Forecast](charts/sales_forecast.png)
+![Sales Forecast](Charts/sales_forecast.png)
 
 ### Forecast Components (Trend + Weekly + Yearly)
-![Forecast Components](charts/forecast_components.png)
+![Forecast Components](Charts/forecast_components.png)
 
 ---
 
 ## Power BI Dashboard
 
-![Power BI Dashboard](charts/dashboard.png)
+![Power BI Dashboard](Charts/dashboard.png)
 
 **Dashboard features:**
 - 4 KPI cards including ML-powered revenue forecast
